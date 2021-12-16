@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Versions>
+    <Version>
+        <Version_number>1</Version_number>
+        <Compatible_Middleware>
+            <PIE_version>2</PIE_version>
+            <PIE_version>1</PIE_version>
+        </Compatible_Middleware>
+        <Compatible_OS>
+            <OS_version>2</OS_version>
+            <OS_version>1</OS_version>
+        </Compatible_OS>
+        <HW_variant>Variant_1</HW_variant>
+        <Artifactory_archive>
+            <File_name>Package.tar.gz</File_name>
+            <Directory_path>Packages</Directory_path>
+            <Checksum>1234567890</Checksum>
+        </Artifactory_archive>
+        <Package_mapping>
+            <file_1>file_1.txt</file_1>
+            <file_2>file_2.txt</file_2>
+        </Package_mapping>
+    </Version>
+</Versions>
